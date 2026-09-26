@@ -1,0 +1,12 @@
+{
+    "application": {
+        "name": "Student Registration System",
+        "version": "1.0.0"
+    },
+    "settings": {
+        "theme": "dark",
+        "language": "English",
+        "max_students": 100,
+        "notifications": true
+    }
+}

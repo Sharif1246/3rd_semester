@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "101",
+        "name": "Ahmad Ahmad",
+        "department": "Computer Science",
+        "semester": "2"
+    },
+    {
+        "student_id": "102",
+        "name": "Ali Rahimi",
+        "department": "Information Systems",
+        "semester": "3"
+    },
+    {
+        "student_id": "103",
+        "name": "Zahra Noor",
+        "department": "Software Engineering",
+        "semester": "2"
+    }
+]
